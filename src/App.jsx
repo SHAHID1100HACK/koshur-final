@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
+import './index.css' // <--- THIS IS CRITICAL
 import { 
   BookOpen, 
   Search, 
